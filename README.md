@@ -1,4 +1,4 @@
-# Burp-utf8Decoder
+# BurpSuite-utf8Decoder
 Extention to perform UTF-8 and ShiftJIS URL encoding in BurpSuite.
 
 ![image](https://user-images.githubusercontent.com/64389838/205491097-60f83262-fbdb-4fcb-be2f-9e7d2d637e1b.png)
